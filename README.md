@@ -82,5 +82,4 @@ dashboard-vendas-xbox/
 ├── dados/Base.xlsx
 ├── docs/preview.png
 ├── README.md
-└── .gitignore
 ```
